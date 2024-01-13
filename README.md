@@ -3,11 +3,11 @@
 <h1 align="center">
 Welcome from my portifolio. <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100px" height="100px">
 
-# I'm Alison Sassi!
-
+<h1 align="center"> I'm Alison Sassi!
+<div style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/48494039?v=4" width="120px" height="100px">
+</div>
 <img src="https://avatars.githubusercontent.com/u/48494039?v=4" width="200px" height="200px" style="border-radius: 50%;">
-
-
 </h1>
 
 
