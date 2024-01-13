@@ -98,10 +98,39 @@ https://lattes.cnpq.br/4162397923535502
 </a> 
 <br>
 
+<div style="display: flex; align-items: center;">
+<a href="https://www.faculdadeserrageralead.com.br">
+    <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/faculdade-serra-geral-ead.png" width="100" height="100" alt="FSG"> 
+</a>
+
+  **Institution:** Faculdade Serra Geral
+  **Course:** Postgraduate MBA in Strategic People and Talent Management
+  **Start Year:** 2023
+  **Completion Year:** -
+
+</div>
+</a> 
+<br>
+
+<div style="display: flex; align-items: center;">
+<a href="https://www.faculdadeserrageralead.com.br">
+    <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/faculdade-serra-geral-ead.png" width="100" height="100" alt="FSG"> 
+</a>
+
+  **Institution:** Faculdade Serra Geral
+  **Course:** Postgraduate Lato Sensu - Specialization in Artificial Intelligence
+  **Start Year:** 2023
+  **Completion Year:** -
+
+</div>
+</a> 
+<br>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <table>
   <tr>
-    <td align="center" style="padding-right: 30px;">
+    <td align="center" style="padding-right: 20px;">
       <h2> 💻 Languages </h2>
       <p align="left">
         🐘 PHP <br>
@@ -114,7 +143,7 @@ https://lattes.cnpq.br/4162397923535502
         🐍 SQL PLSQL <br>
       </p>
     </td>
-    <td align="center" style="padding-left: 30px;">
+    <td align="center" style="padding-left: 20px; padding-right: 20px;">
       <h2> 🛠️ Tools </h2>
       <p align="left">
         🔧 Visual Studio Code <br>
@@ -125,6 +154,46 @@ https://lattes.cnpq.br/4162397923535502
         ☁️ Azure <br>
         📊 Power BI <br>
         🐱 GitHub <br>
+      </p>
+    </td>
+    <td align="center" style="padding-left: 20px;">
+      <h2> 🎓 Certifications </h2>
+      <p align="left">
+        🌐 Interop Day - 2012 and 2021 <br>
+        🔒 Information Security - 2016 <br>
+        ⚖️ Conflict Administration - 2017 <br>
+        🌟 Becoming a Leader - 2017 <br>
+        📊 Power BI Course - Module I - Planilheiros - 2019 <br>
+        🚀 APIs with Node.js + Express + Mongodb - 2019 <br>
+        🌐 Node.js with Express - DIO - 2020 <br>
+        🚀 OmniStack Week - 2019 and 2020 <br>
+        🔍 Microsoft Power BI for Data Science - 2020 <br>
+        📜 Privacy Policies aligned with LGPD and GDPR - 2020 <br>
+        🌟 Inspirational Leadership - 2021 <br>
+        🤖 RPA Immersion - 2020 and 2021 <br>
+        📜 Scrum Foundation Professional Certificate SFPC - 2022 <br>
+        🚀 Agile Management with Scrum COMPLETE + 3 EXTRA Courses - 2022 <br>
+      </p>
+    </td>
+    <td align="center" style="padding-left: 20px;">
+      <h2> 🚀 Projects </h2>
+      <p align="left">
+        📆 Deployment of the Cooperado Unio Soluções App - September 2016 <br>
+        📋 Developed Layout for exporting Contacts of doctors to the agenda - Nov. 2016 <br>
+        📋 Development of Layout for sending bills from Unicoopmed doctors - March 2017 <br>
+        📋 Development of the "ScriptUnimedJava" Software - November 2017 <br>
+        📆 Deployment of the Beneficiary App from Unimed do Brasil - June 2018 <br>
+        🤖 Automation of downloading recordings from the Unimed service URA - December 2018 <br>
+        📆 Deployment of the transparency project at Unimed do Brasil - January 2020 <br>
+        💼 Validator/Auditor System Voxis - May 2020 <br>
+        📆 Deployment of WhatsApp Business at Unimed - May 2020 <br>
+        📑 Creation and auditing of the WhatsApp Policy - May 2020 <br>
+        📑 Creation and participation in the "Enchanting Customers" group - 2020 <br>
+        📋 Assembly and development of the Card 6.0 layout - July 2020 <br>
+        📅 Local medical guide on WhatsApp Unimed - 2021 <br>
+        📧 Sending notification via SMS Central Authorizations - 2021 <br>
+        📋 Development of the Registration Update via APP, Portal, and WhatsApp - 2021 <br>
+        🔄 Integration system between Philips Base and Azure Boards. <br>
       </p>
     </td>
   </tr>
