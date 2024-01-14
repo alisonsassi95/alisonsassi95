@@ -47,7 +47,7 @@ Welcome from my portifolio. <img src="https://user-images.githubusercontent.com/
 </a>
  
 <a href="https://lattes.cnpq.br/4162397923535502">
-  <img src="https://www.fea.usp.br/sites/default/files/u6211/icon-curriculo-lattes.png" width="70" height="30" alt="Lates">
+  <img src="https://www.fea.usp.br/sites/default/files/u6211/icon-curriculo-lattes.png" width="80" height="30" style="border: 2px solid white;" alt="Lates">
 </a>
  
 </div>
