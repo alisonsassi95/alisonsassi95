@@ -47,7 +47,7 @@ Welcome from my portifolio. <img src="https://user-images.githubusercontent.com/
 </a>
  
 <a href="https://lattes.cnpq.br/4162397923535502">
-  <img src="https://s2-techtudo.glbimg.com/p99_fCjPl62-1SXcM9jOmOiIQoM=/0x0:1500x708/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/A/s/GjHRVLRNAf1TqEVURhpg/plataforma-lattes.jpg" width="60" height="60" alt="Lates">
+  <img src="https://www.fea.usp.br/sites/default/files/u6211/icon-curriculo-lattes.png" width="70" height="30" alt="Lates">
 </a>
  
 </div>
