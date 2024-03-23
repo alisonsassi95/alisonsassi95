@@ -64,7 +64,7 @@ Welcome from my portifolio. <img src="https://user-images.githubusercontent.com/
   <div style="display: flex; align-items: center;">
 
   <a href="https://www.iffarroupilha.edu.br/santo-augusto">
-    <img src="https://scontent.ffln3-1.fna.fbcdn.net/v/t39.30808-6/294679343_554833446315650_884525649030583026_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=kWsLKP1Ofp4AX861BD1&_nc_oc=AQkOBCfpfWmx57phgGxOS8MdqDY5zTQWMzKAN-iOWG9I_-ZQggThjVt4MooSuk9xRkIAZmljliBE6wbI2WcZm7FK&_nc_ht=scontent.ffln3-1.fna&oh=00_AfAk6olYrXIcL1MSda2lQbjfhb_RHoo748DnbYQ6-bjcSg&oe=65A6A87B" width="100" height="100" alt="IFF"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg/1024px-Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg.png" width="100" height="100" alt="IFF"> 
   </a>
   
 
@@ -150,6 +150,22 @@ Welcome from my portifolio. <img src="https://user-images.githubusercontent.com/
   **Course:** Postgraduate Lato Sensu - Specialization in Artificial Intelligence
   
   **Start Year:** 2023
+  
+  **Completion Year:** -
+
+
+</div>
+
+<div style="display: flex; align-items: center;">
+<a href="http://ceduphh.com.br/home/">
+    <img src="http://www.ceduphh.com.br/Arquivos_Ceduphh/stp/LOGO_CEDUP_COM_FUNDO_BRANCO.jpg" width="100" height="100" alt="cedup"> 
+</a>
+
+  **Institution:** CEDUP HH - Centro de Educação Profissional Hermann Hering em Blumenau
+  
+  **Course:** Computer technician course **teacher**
+  
+  **Start Year:** 2024
   
   **Completion Year:** -
 
