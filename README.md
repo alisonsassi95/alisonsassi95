@@ -60,8 +60,7 @@ Welcome from my portifolio. <img src="https://user-images.githubusercontent.com/
 
 <div align="left">
   <h2> <strong> 📚 Education </strong> </h2>
-
-  <div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
 
   <a href="https://www.iffarroupilha.edu.br/santo-augusto">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg/1024px-Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg.png" width="100" height="100" alt="IFF"> 
