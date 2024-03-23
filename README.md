@@ -61,28 +61,22 @@ Welcome from my portifolio. <img src="https://user-images.githubusercontent.com/
 <div align="left">
   <h2> <strong> 📚 Education </strong> </h2>
 
-  <div style="display: flex; align-items: center;">
-
+<div style="display: flex; align-items: center;">
   <a href="https://www.iffarroupilha.edu.br/santo-augusto">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg/1024px-Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg.png" width="100" height="100" alt="IFF"> 
   </a>
   
-
-**Institution:** Instituto Federal Farroupilha - Campus Santo Augusto - RS
-
-
-**Course:** Information Technology Technician
-
-
-**Start Year:** 2009
-
-
-**Completion Year:** 2013
-
+  <div style="margin-left: 20px;"> <!-- Espaçamento entre a imagem e o texto -->
+    <p align="right"> <!-- Alinhamento do texto à direita -->
+      <strong>Institution:</strong> Instituto Federal Farroupilha - Campus Santo Augusto - RS<br>
+      <strong>Course:</strong> Information Technology Technician<br>
+      <strong>Start Year:</strong> 2009<br>
+      <strong>Completion Year:</strong> 2013
+    </p>
+  </div>
 </div>
 </a> 
 <br>
-
 
 <div style="display: flex; align-items: center;">
 <a href="https://www.unijui.edu.br">
