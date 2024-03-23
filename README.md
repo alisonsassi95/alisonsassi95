@@ -60,7 +60,8 @@ Welcome from my portifolio. <img src="https://user-images.githubusercontent.com/
 
 <div align="left">
   <h2> <strong> 📚 Education </strong> </h2>
-<div style="display: flex; align-items: center;">
+
+  <div style="display: flex; align-items: center;">
 
   <a href="https://www.iffarroupilha.edu.br/santo-augusto">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg/1024px-Instituto_Federal_Farroupilha_-_Marca_Vertical_2015.svg.png" width="100" height="100" alt="IFF"> 
@@ -151,8 +152,9 @@ Welcome from my portifolio. <img src="https://user-images.githubusercontent.com/
   
   **Completion Year:** -
 
-
 </div>
+
+<br>
 
 <div style="display: flex; align-items: center;">
 <a href="http://ceduphh.com.br/home/">
@@ -161,12 +163,9 @@ Welcome from my portifolio. <img src="https://user-images.githubusercontent.com/
 
   **Institution:** CEDUP HH - Centro de Educação Profissional Hermann Hering em Blumenau
   
-  **Course:** Computer technician course **teacher**
+  **Course teacher:** Computer technician course **teacher**
   
   **Start Year:** 2024
-  
-  **Completion Year:** -
-
 
 </div>
 </a> 
